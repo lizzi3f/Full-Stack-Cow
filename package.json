@@ -1,0 +1,25 @@
+{
+  "name": "cowexample",
+  "version": "1.0.0",
+  "description": "backend express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lizzi3f"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cowsay": "^1.4.0",
+    "express": "^4.17.1"
+  },
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
+
